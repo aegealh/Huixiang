@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- main -->
+    <string name="app_name">茴香</string>
+    <string name="gather_from_share">记录到茴香</string>
+    <string name="fav_empty">如果有收藏过喜欢的句子，他们会出现在这里。</string>
+    <string name="empty">暂时没有数据</string>
+    <string name="title_section1">看看</string>
+    <string name="title_section2">收藏</string>
+    <string name="title_section3">设置</string>
+    
+    <string name="about_huixiang">关于茴香</string>
+    <string name="share_intent_title">"请选择分享途径"</string>
+    <string name="feedback_intent_title">"请选择反馈途径"</string>
+
+    <!-- auth -->
+    <string name="auth_progress">登录中&#8230;</string>
+    <string name="auth_success">登录成功</string>
+    <string name="auth_failed">登录失败，请重试</string>
+
+    <!-- action item -->
+    <string name="action_settings">设置</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_gather">采集</string>
+
+    <!-- weibo -->
+    <string name="post_weibo_progress">分享到微薄中&#8230;</string>
+    <string name="post_weibo_success">分享到微薄成功</string>
+    <string name="post_weibo_failed">分享到微薄失败，请重试</string>
+    
+    <!-- fav -->
+    <string name="fav_progress">添加收藏中&#8230;</string>
+    <string name="fav_success">收藏成功</string>
+    <string name="fav_failed">收藏失败，请重试</string>
+
+    <string-array name="fav_action_list">
+        <item>从收藏中删除</item>
+        <item>分享到微博</item>
+        <item>分享到其他</item>
+    </string-array>
+
+    <!-- unfav -->
+    <string name="unfav_progress">删除收藏中&#8230;</string>
+    <string name="unfav_success">删除成功</string>
+    <string name="unfav_failed">删除失败，请重试</string>
+
+    <!-- gather -->
+    <string name="gather_progress">请求中&#8230;</string>
+    <string name="gather_success">记录成功</string>
+    <string name="gather_failed">记录失败，请重试</string>
+    <string name="share_title">分享到：</string>
+    <string name="gather_action">好了</string>
+
+    <!-- settings -->
+    <string name="settings_account">当前帐号</string>
+    <string name="settings_feedback">提交反馈</string>
+    <string name="settings_about_huixiang">喜欢茴香</string>
+    <string name="settings_website">我们的网站</string>
+    <string name="settings_rate">评个分吧</string>
+    <string name="settings_oauth">点击授权</string>
+
+</resources>
